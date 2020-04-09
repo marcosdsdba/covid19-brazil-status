@@ -1,5 +1,5 @@
 # Covid-19 Brazil Status
-Check the numbers and status of the Covid-19 in brazil by states
+Numbers and status of the Covid-19 in brazil by states
 
 Check releases/Tags/v.0.3 to get apk
 
